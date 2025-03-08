@@ -1,4 +1,4 @@
-# 🛒 Nike Store - E-commerce Website
+# 🛒 E-commerce Website
 
 A sleek and interactive **e-commerce website** for the **Nike Store**, featuring a user-friendly interface, product catalog, shopping cart, and checkout system.
 
